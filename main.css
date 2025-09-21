@@ -176,14 +176,14 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #005794;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
 }
 
 a:hover {
-  color: #0056b3;
+  color: #005794;
   text-decoration: underline;
 }
 
@@ -10935,7 +10935,7 @@ section {
   display: inline-block;
   font-size: 16px;
   font-weight: 600;
-  color: #00c8ff;
+  color: #005794;
 }
 
 .readmore svg {
@@ -10950,7 +10950,7 @@ section {
   }
 
   .readmore:hover {
-    color: #00c8ff;
+    color: #005794;
   }
 
   .readmore:hover svg {
@@ -10973,7 +10973,7 @@ section {
   height: 40px;
   min-width: 140px;
   padding: 8px 20px 0;
-  background: #00c8ff;
+  background: #005794;
   border-bottom: 2px #002e47 solid;
   color: #fff;
   text-transform: uppercase;
@@ -10989,7 +10989,7 @@ section {
 .btn-alt {
   background: #ffffff !important;
   border-bottom: 2px #cba901 solid;
-  color: #00c8ff;
+  color: #005794;
 }
 
 @media (min-width: 1024px) {
@@ -11021,7 +11021,7 @@ section {
   height: 40px;
   min-width: 140px;
   padding: 0 20px;
-  background: #00c8ff;
+  background: #005794;
   color: #fff;
   text-transform: uppercase;
   font-size: 14px;
@@ -11112,7 +11112,7 @@ a:hover {
 }
 
 .readmore.alt .icon__arrow {
-  fill: #00c8ff;
+  fill: #005794;
 }
 
 .comment-list ol {
@@ -11127,22 +11127,22 @@ a:hover {
 
 ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
-  color: #00c8ff;
+  color: #005794;
 }
 
 ::-moz-placeholder {
   /* Firefox 19+ */
-  color: #00c8ff;
+  color: #005794;
 }
 
 :-ms-input-placeholder {
   /* IE 10+ */
-  color: #00c8ff;
+  color: #005794;
 }
 
 :-moz-placeholder {
   /* Firefox 18- */
-  color: #00c8ff;
+  color: #005794;
 }
 
 form h3 {
@@ -11683,7 +11683,7 @@ li input:not([type="submit"]):focus {
 }
 
 .twopanels__article.charter {
-  color: #00c8ff;
+  color: #005794;
   padding: 0 20px;
 }
 
@@ -11699,7 +11699,7 @@ li input:not([type="submit"]):focus {
 
 .twopanels__article__content {
   padding: 20px;
-  background: #00c8ff;
+  background: #005794;
 }
 
 @media (min-width: 768px) {
@@ -11731,7 +11731,7 @@ li input:not([type="submit"]):focus {
   .twopanels__article .btn:hover,
   .twopanels__article .comment-form input[type="submit"]:hover,
   .comment-form .twopanels__article input[type="submit"]:hover {
-    color: #00c8ff;
+    color: #005794;
   }
 }
 
@@ -11745,7 +11745,7 @@ li input:not([type="submit"]):focus {
   width: 20px;
   margin: 0 8px 0 0;
   vertical-align: middle;
-  fill: #00c8ff;
+  fill: #005794;
 }
 
 .twopanels__article__options span {
@@ -11782,7 +11782,7 @@ li input:not([type="submit"]):focus {
 
 .twopanels__listing .table-row div {
   padding: 12px 3px;
-  border-bottom: 1px #00c8ff solid;
+  border-bottom: 1px #005794 solid;
 }
 
 .twopanels__listing .table-row div:first-child {
@@ -11792,7 +11792,7 @@ li input:not([type="submit"]):focus {
 .twopanels__listing .table-row:first-child div {
   padding: 0 3px 6px;
   font-weight: 600;
-  border-bottom: 1px #00c8ff solid;
+  border-bottom: 1px #005794 solid;
 }
 
 .twopanels__listing .table-row:last-child div {
@@ -11807,7 +11807,7 @@ li input:not([type="submit"]):focus {
 .twopanels__listing__datestoremember .text {
   padding: 5px 0 15px;
   margin-bottom: 15px;
-  border-bottom: 1px #00c8ff solid;
+  border-bottom: 1px #005794 solid;
   font-size: 15px;
 }
 
@@ -11821,12 +11821,12 @@ li input:not([type="submit"]):focus {
 }
 
 .twopanels__listing__workwithus svg {
-  fill: #00c8ff;
+  fill: #005794;
   margin: 0 10px;
 }
 
 .twopanels__listing__workwithus .table-row {
-  color: #00c8ff;
+  color: #005794;
   font-size: 17px;
   font-weight: 500;
 }
@@ -11928,7 +11928,7 @@ li input:not([type="submit"]):focus {
 .contact__content__main {
   margin: 30px 0 40px;
   padding: 0 0 20px 0;
-  border-bottom: 1px #00c8ff solid;
+  border-bottom: 1px #005794 solid;
 }
 
 .contact__content__main h3 {
@@ -11938,7 +11938,7 @@ li input:not([type="submit"]):focus {
 }
 
 .contact__content__main a {
-  color: #00c8ff;
+  color: #005794;
   text-decoration: underline;
 }
 
@@ -12045,7 +12045,7 @@ li input:not([type="submit"]):focus {
 .search__results li div {
   display: block;
   padding: 0 0 0 80px;
-  color: #00c8ff;
+  color: #005794;
 }
 
 @media (min-width: 768px) {
@@ -12055,7 +12055,7 @@ li input:not([type="submit"]):focus {
 }
 
 .search__results a {
-  color: #00c8ff;
+  color: #005794;
 }
 
 .search__results__item {
@@ -12143,7 +12143,7 @@ li input:not([type="submit"]):focus {
 }
 
 .search__results__item__livetracking a {
-  color: #00c8ff;
+  color: #005794;
   text-decoration: underline;
 }
 
@@ -12153,7 +12153,7 @@ li input:not([type="submit"]):focus {
   margin: 0 0 0 5px;
   width: 16px;
   height: 16px;
-  fill: #00c8ff;
+  fill: #005794;
 }
 
 .search__results__item__timetable {
@@ -12195,7 +12195,7 @@ li input:not([type="submit"]):focus {
   padding: 0 8px;
   font-size: 16px;
   font-weight: 500;
-  color: #00c8ff;
+  color: #005794;
 }
 
 .search .pagination li.active a {
@@ -12208,7 +12208,7 @@ li input:not([type="submit"]):focus {
   margin: 0 0 2px 0;
   width: 16px;
   height: 16px;
-  fill: #00c8ff;
+  fill: #005794;
 }
 
 .search .pagination__next svg {
@@ -12308,7 +12308,7 @@ li input:not([type="submit"]):focus {
 .search-detail .ampm-toggle {
   display: inline-block;
   padding: 5px 10px 7px;
-  background: #00c8ff;
+  background: #005794;
   color: #fff;
   font-size: 12px;
   border-radius: 3px;
@@ -12365,7 +12365,7 @@ li input:not([type="submit"]):focus {
   display: inline-block;
   text-decoration: underline;
   margin-left: 30px;
-  color: #00c8ff;
+  color: #005794;
   font-size: 16px;
   font-weight: 500;
 }
@@ -12474,7 +12474,7 @@ li input:not([type="submit"]):focus {
   height: 100%;
   padding: 0;
   margin: 0;
-  background: #00c8ff;
+  background: #005794;
 }
 
 @media (min-width: 768px) {
@@ -12601,7 +12601,7 @@ li input:not([type="submit"]):focus {
 
 .textimage p a {
   text-decoration: underline;
-  color: #00c8ff;
+  color: #005794;
 }
 
 .textimage .btn-large {
@@ -12609,7 +12609,7 @@ li input:not([type="submit"]):focus {
 }
 
 .textimage .btn-alt:hover {
-  color: #00c8ff;
+  color: #005794;
 }
 
 .textimage .secondary {
@@ -12771,7 +12771,7 @@ li input:not([type="submit"]):focus {
 .ui-datepicker select {
   background: transparent;
   border: none;
-  color: #00c8ff;
+  color: #005794;
   font-size: 11px;
   font-weight: 600;
   margin: 0;
@@ -12789,7 +12789,7 @@ li input:not([type="submit"]):focus {
 }
 
 .ui-datepicker a {
-  color: #00c8ff;
+  color: #005794;
   font-size: 11px;
 }
 
@@ -12841,7 +12841,7 @@ li input:not([type="submit"]):focus {
   position: relative;
   display: block;
   padding: 40px;
-  background: #00c8ff;
+  background: #005794;
   color: #fff;
 }
 
@@ -12859,8 +12859,8 @@ li input:not([type="submit"]):focus {
 .image-text__content .btn:hover,
 .image-text__content .comment-form input[type="submit"]:hover,
 .comment-form .image-text__content input[type="submit"]:hover {
-  background: #00c8ff;
-  color: #00c8ff;
+  background: #005794;
+  color: #005794;
 }
 
 @media (min-width: 1024px) {
@@ -12955,7 +12955,7 @@ li input:not([type="submit"]):focus {
 .image-text__form input:not([type="submit"]),
 .image-text__form input:not([type="radio"]) {
   max-width: none;
-  color: #00c8ff;
+  color: #005794;
 }
 
 .image-text__form input[type='submit'] {
@@ -13020,7 +13020,7 @@ li input:not([type="submit"]):focus {
   border-radius: 0;
   -webkit-appearance: none;
   -webkit-border-radius: 0;
-  color: #00c8ff;
+  color: #005794;
 }
 
 .image-text__form .options li {
@@ -13061,7 +13061,7 @@ li input:not([type="submit"]):focus {
   max-height: 10px;
   height: 50px;
   border: none;
-  color: #00c8ff;
+  color: #005794;
   padding-top: 15px;
   padding-bottom: 15px;
 }
@@ -13191,7 +13191,7 @@ li input:not([type="submit"]):focus {
   top: 0;
   left: 0;
   width: 100%;
-  background: #00c8ff;
+  background: #005794;
 }
 
 .header__top {
@@ -13266,7 +13266,7 @@ li input:not([type="submit"]):focus {
   -webkit-transform: translateY(-100%);
        -o-transform: translateY(-100%);
           transform: translateY(-100%);
-  background: #00c8ff;
+  background: #005794;
   -webkit-transition: all 0.3s ease-out 0.3s;
   -o-transition: all 0.3s ease-out 0.3s;
   transition: all 0.3s ease-out 0.3s;
@@ -13335,7 +13335,7 @@ li input:not([type="submit"]):focus {
 
 .header__top__nav li.current-menu-item a {
   background: #fbfbfb;
-  color: #00c8ff;
+  color: #005794;
 }
 
 @media (min-width: 1024px) {
@@ -13449,11 +13449,11 @@ li input:not([type="submit"]):focus {
   margin-left: 15px;
   width: 13px;
   height: 9px;
-  fill: #00c8ff;
+  fill: #005794;
 }
 
 .header__updates__link {
-  color: #00c8ff;
+  color: #005794;
 }
 
 @media (min-width: 1024px) {
@@ -13686,7 +13686,7 @@ li input:not([type="submit"]):focus {
   width: calc(100% - 20px);
   -webkit-box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
           box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
-  color: #00c8ff;
+  color: #005794;
   text-align: left;
   background: #fff;
 }
@@ -13702,7 +13702,7 @@ li input:not([type="submit"]):focus {
 .searchform__search {
   padding: 10px;
   background: #fff;
-  color: #00c8ff;
+  color: #005794;
 }
 
 @media (min-width: 768px) {
@@ -13717,7 +13717,7 @@ li input:not([type="submit"]):focus {
   z-index: 1;
   top: 20px;
   left: 20px;
-  stroke: #00c8ff;
+  stroke: #005794;
   width: 18px;
   height: 18px;
 }
@@ -13740,7 +13740,7 @@ li input:not([type="submit"]):focus {
   outline: none;
   border: none;
   background: #f2f2f2;
-  color: #00c8ff;
+  color: #005794;
   font-size: 17px;
   font-weight: 400;
 }
@@ -13882,7 +13882,7 @@ li input:not([type="submit"]):focus {
   width: 100%;
   height: 350px;
   padding: 30px 0;
-  background: #00c8ff;
+  background: #005794;
   text-align: center;
 }
 
